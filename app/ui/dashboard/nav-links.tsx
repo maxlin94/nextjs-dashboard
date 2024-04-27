@@ -1,4 +1,4 @@
-'use client'
+'use client';
 
 import {
   UserGroupIcon,
@@ -6,7 +6,7 @@ import {
   DocumentDuplicateIcon,
 } from '@heroicons/react/24/outline';
 import Link from 'next/link';
-import { usePathname } from 'next/navigation'
+import { usePathname } from 'next/navigation';
 import clsx from 'clsx';
 
 // Map of links to display in the side navigation.
